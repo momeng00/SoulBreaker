@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0426a73bd57e8a14ea3ab253f0faa466, type: 3}
+  m_Name: SupportShotFxEventData
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: 0
+  <Name>k__BackingField: 
+  <DisplayName>k__BackingField: 
+  <Description>k__BackingField: 
+  IsGameTime: 0
+  Prefab: {fileID: 2017119685302849515, guid: 08a4251a202a90b4c8afe69f5d1937f4, type: 3}

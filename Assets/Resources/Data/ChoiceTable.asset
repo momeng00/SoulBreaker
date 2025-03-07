@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e54a8599a5384b4ebfcb0c4a1505ca4, type: 3}
+  m_Name: ChoiceTable
+  m_EditorClassIdentifier: 
+  _choiceDatas:
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 11400000, guid: 5ff1279baed434e28b3f213fa1b81a55, type: 2}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 1
+    itemData: {fileID: 0}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 0
+    itemData: {fileID: 11400000, guid: 965866d061d306e4aa75099780d39ae9, type: 2}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 0
+    itemData: {fileID: 11400000, guid: fa6e8fdef0e3fb04583573f800c635a2, type: 2}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 0
+    itemData: {fileID: 11400000, guid: 01f00377430f16d4fa876736f962c9db, type: 2}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 0
+    itemData: {fileID: 11400000, guid: fa94eefc6f153b649bab9803e8b38f15, type: 2}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 0
+    itemData: {fileID: 11400000, guid: 17e86d26b25af5f4c801f74e6ef22556, type: 2}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 0
+    itemData: {fileID: 11400000, guid: 982b6d78f424e274ca17a273d30b5457, type: 2}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 0
+    itemData: {fileID: 11400000, guid: 5388dea769429ef4f9d429b9039bda8a, type: 2}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 0
+    itemData: {fileID: 11400000, guid: dbcc8ea3f23253a4592aeb751ce07b0b, type: 2}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 0
+    itemData: {fileID: 11400000, guid: f0a007614cb8363459bda369abc89e4b, type: 2}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1
+  - tier: 3
+    choiceType: 0
+    itemData: {fileID: 11400000, guid: e83b0ae5b39185542b17f94dfd725a51, type: 2}
+    skillData: {fileID: 0}
+    unitStatUpgradeData: {fileID: 0}
+    weight: 1

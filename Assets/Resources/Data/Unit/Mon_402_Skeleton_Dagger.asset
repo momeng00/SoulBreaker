@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb9b6db1f2a4d224b90222061bbfe491, type: 3}
+  m_Name: Mon_402_Skeleton_Dagger
+  m_EditorClassIdentifier: 
+  _id: Unit_402
+  _icon: {fileID: 21300000, guid: 4c772a688e6c64a7b8d770689d42291f, type: 3}
+  _prefab: {fileID: 4602744156704204850, guid: b926655cc0f043b4caf6fe19465249e8, type: 3}
+  _hitPrefab: {fileID: 1314346859962251579, guid: ee9818566bd9b714fa1825e60b5c15fa, type: 3}
+  _projectilePrefab: {fileID: 0}
+  _warningPrefab: {fileID: 0}
+  _dropExp: 30
+  _health:
+    _value: 50
+  _attack:
+    _value: 5
+  _defense:
+    _value: 5
+  _mp:
+    _value: 100
+  _exp:
+    _value: 0
+  _level:
+    _value: 0
+  _stageLevel:
+    _value: 0
+  _speed:
+    _value: 0.9
+  _attackSpeed:
+    _value: 1
+  _attackRange:
+    _value: 1.4
+  _criticalRate:
+    _value: 0
+  _criticalPercent:
+    _value: 0
+  _stunRate:
+    _value: 0
+  _lifestealRate:
+    _value: 0
+  _lifestealPercent:
+    _value: 0

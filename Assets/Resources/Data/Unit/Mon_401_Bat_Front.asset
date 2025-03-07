@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb9b6db1f2a4d224b90222061bbfe491, type: 3}
+  m_Name: Mon_401_Bat_Front
+  m_EditorClassIdentifier: 
+  _id: Unit_401_F
+  _icon: {fileID: 21300000, guid: 0f352b3e8242c4006a6ca42a808c43ad, type: 3}
+  _prefab: {fileID: 4602744156704204850, guid: 2676d81d68d3f20419c7e49f525c8222, type: 3}
+  _hitPrefab: {fileID: 1314346859962251579, guid: ee9818566bd9b714fa1825e60b5c15fa, type: 3}
+  _projectilePrefab: {fileID: 0}
+  _warningPrefab: {fileID: 0}
+  _dropExp: 14
+  _health:
+    _value: 14
+  _attack:
+    _value: 4
+  _defense:
+    _value: 0
+  _mp:
+    _value: 100
+  _exp:
+    _value: 0
+  _level:
+    _value: 0
+  _stageLevel:
+    _value: 0
+  _speed:
+    _value: 1
+  _attackSpeed:
+    _value: 1.5
+  _attackRange:
+    _value: 0.8
+  _criticalRate:
+    _value: 0
+  _criticalPercent:
+    _value: 0
+  _stunRate:
+    _value: 0
+  _lifestealRate:
+    _value: 0
+  _lifestealPercent:
+    _value: 0
